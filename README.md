@@ -1,19 +1,20 @@
 # Project--Creating-My-First-Cryptocurrency
 
 
-# Project--Making-The-First-Blockchain
-
 <table></table> 
   
-**In this project We will build our First Block Chain and will use Flask to make a Flask Web Application where our Blockchain will run. We will also use Postman to visualize the Blockchain.** <br></br>
+**In this project We will build our First CryptoCurrency on the Blockchain built in previous project and will use Flask to make a Flask Web Application where our Blockchain will run. We will also use Postman to visualize the Blockchain.** <br></br>
 
-**We are gonna performing three doing in Blockchain using Postman**<br></br>
+**We are gonna performing many operations in Blockchain using Postman**<br></br>
 
 **a:** Visualize our Blockchain <br></br>
 **b:** Mine the Block in the Blockchain <br></br>
 **c:** Check the Validity of our Blockchain <br></br>
+**d.** Add the Transactions in the Blockchain
+**e** Replace the chain with the longest chain to follow the consesus of the Blockchain
+**f** Create the nodes in the Blockchain
 
-**Before jumping to the code lets understand Blockchain First**...<br></br>
+**Before jumping to the code lets understand Blockchain and CryptoCurrency First**...<br></br>
 
 **What is Blockchain**?<br></br>
 A blockchain is a distributed database or ledger shared among a computer network's nodes. They are best known for their crucial role in cryptocurrency systems for maintaining a secure and decentralized record of transactions, but they are not limited to cryptocurrency uses. Blockchains can be used to make data in any industry immutable—the term used to describe the inability to be altered.<br></br>
