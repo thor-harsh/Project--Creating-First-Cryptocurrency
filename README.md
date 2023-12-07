@@ -26,6 +26,11 @@ In Bitcoin’s case, blockchain is decentralized so that no single person or gro
 Decentralized blockchains are immutable, which means that the data entered is irreversible. For Bitcoin, transactions are permanently recorded and viewable to anyone.<br></br>
 
 
+**What is CryptoCurrency?**
+
+A cryptocurrency is a digital currency, which is an alternative form of payment created using encryption algorithms. The use of encryption technologies means that cryptocurrencies function both as a currency and as a virtual accounting system. To use cryptocurrencies, you need a cryptocurrency wallet.
+
+
 </table>
 
 **So what are you waiting for...? Jump to the code to get started. As usual for any doubt or query see you in pull request section 😁😂. Thanks!**
