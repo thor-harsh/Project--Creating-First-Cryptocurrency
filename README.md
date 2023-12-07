@@ -1,6 +1,5 @@
 # Project--Creating-My-First-Cryptocurrency
 
-
 <table></table> 
   
 **In this project We will build our First CryptoCurrency on the Blockchain built in previous project and will use Flask to make a Flask Web Application where our Blockchain will run. We will also use Postman to visualize the Blockchain.** <br></br>
